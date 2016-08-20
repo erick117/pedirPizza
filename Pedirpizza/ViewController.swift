@@ -8,11 +8,21 @@
 
 import UIKit
 
+var pizza = [AnyObject]()
+var Pizza = [String:AnyObject]()
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        
+//        print(pizza.count)
+//        pizza.append("Hola")
+//        pizza.append(["arreglo dentro","de otro arreglo"])
+//        print(pizza.count)
+//        print(pizza)
     }
 
     override func didReceiveMemoryWarning() {

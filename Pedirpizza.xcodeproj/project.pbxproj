@@ -7,14 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		80191A9D1D67CBA80003AA58 /* TamanioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80191A9C1D67CBA80003AA58 /* TamanioViewController.swift */; };
+		80191A9F1D67CBBA0003AA58 /* MasaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80191A9E1D67CBBA0003AA58 /* MasaViewController.swift */; };
+		80191AA11D67CBCE0003AA58 /* QuesoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80191AA01D67CBCE0003AA58 /* QuesoViewController.swift */; };
+		80191AA31D67CBE00003AA58 /* IngredientesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80191AA21D67CBE00003AA58 /* IngredientesViewController.swift */; };
+		80191AA51D67CBFF0003AA58 /* ConfirmacionPizzaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80191AA41D67CBFF0003AA58 /* ConfirmacionPizzaViewController.swift */; };
 		8043E5081D676117004C2072 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8043E5071D676117004C2072 /* AppDelegate.swift */; };
 		8043E50A1D676117004C2072 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8043E5091D676117004C2072 /* ViewController.swift */; };
 		8043E50D1D676117004C2072 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8043E50B1D676117004C2072 /* Main.storyboard */; };
 		8043E50F1D676117004C2072 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8043E50E1D676117004C2072 /* Assets.xcassets */; };
 		8043E5121D676117004C2072 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8043E5101D676117004C2072 /* LaunchScreen.storyboard */; };
+		8043E5441D67866A004C2072 /* sin queso.png in Resources */ = {isa = PBXBuildFile; fileRef = 8043E5431D67866A004C2072 /* sin queso.png */; };
+		8043E54E1D678B4C004C2072 /* 4859-Pimienta-negra--molida500x500.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8043E5451D678B4C004C2072 /* 4859-Pimienta-negra--molida500x500.jpg */; };
+		8043E54F1D678B4C004C2072 /* 140123145048-sil-sausage-frankfurter-horizontal-large-gallery.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8043E5461D678B4C004C2072 /* 140123145048-sil-sausage-frankfurter-horizontal-large-gallery.jpg */; };
+		8043E5501D678B4C004C2072 /* aceitunasSERPIS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8043E5471D678B4C004C2072 /* aceitunasSERPIS.jpg */; };
+		8043E5521D678B4C004C2072 /* cebolla.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8043E5491D678B4C004C2072 /* cebolla.jpg */; };
+		8043E5531D678B4C004C2072 /* jamon-cocido-bocata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8043E54A1D678B4C004C2072 /* jamon-cocido-bocata.jpg */; };
+		8043E5541D678B4C004C2072 /* pavo-asado-19804.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8043E54B1D678B4C004C2072 /* pavo-asado-19804.jpg */; };
+		8043E5551D678B4C004C2072 /* pepperoni.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8043E54C1D678B4C004C2072 /* pepperoni.jpg */; };
+		8043E5561D678B4C004C2072 /* piña.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8043E54D1D678B4C004C2072 /* piña.jpg */; };
+		809FFA701D678E9C000FC8AE /* anchoas.png in Resources */ = {isa = PBXBuildFile; fileRef = 809FFA6F1D678E9C000FC8AE /* anchoas.png */; };
+		A7EAA86E1D6909A7003D82F0 /* 799938223-queso-parmesano-food-rotar-ninguno.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A7EAA86A1D6909A7003D82F0 /* 799938223-queso-parmesano-food-rotar-ninguno.jpg */; };
+		A7EAA86F1D6909A7003D82F0 /* mozarela para pizza.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A7EAA86B1D6909A7003D82F0 /* mozarela para pizza.jpeg */; };
+		A7EAA8701D6909A7003D82F0 /* pizza juntas.png in Resources */ = {isa = PBXBuildFile; fileRef = A7EAA86C1D6909A7003D82F0 /* pizza juntas.png */; };
+		A7EAA8711D6909A7003D82F0 /* Quedo-Cheddar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A7EAA86D1D6909A7003D82F0 /* Quedo-Cheddar.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		80191A9C1D67CBA80003AA58 /* TamanioViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TamanioViewController.swift; sourceTree = "<group>"; };
+		80191A9E1D67CBBA0003AA58 /* MasaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MasaViewController.swift; sourceTree = "<group>"; };
+		80191AA01D67CBCE0003AA58 /* QuesoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuesoViewController.swift; sourceTree = "<group>"; };
+		80191AA21D67CBE00003AA58 /* IngredientesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IngredientesViewController.swift; sourceTree = "<group>"; };
+		80191AA41D67CBFF0003AA58 /* ConfirmacionPizzaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfirmacionPizzaViewController.swift; sourceTree = "<group>"; };
 		8043E5041D676117004C2072 /* Pedirpizza.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pedirpizza.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8043E5071D676117004C2072 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8043E5091D676117004C2072 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +46,20 @@
 		8043E50E1D676117004C2072 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8043E5111D676117004C2072 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8043E5131D676117004C2072 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8043E5431D67866A004C2072 /* sin queso.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "sin queso.png"; path = "../sin queso.png"; sourceTree = "<group>"; };
+		8043E5451D678B4C004C2072 /* 4859-Pimienta-negra--molida500x500.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "4859-Pimienta-negra--molida500x500.jpg"; path = "../4859-Pimienta-negra--molida500x500.jpg"; sourceTree = "<group>"; };
+		8043E5461D678B4C004C2072 /* 140123145048-sil-sausage-frankfurter-horizontal-large-gallery.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "140123145048-sil-sausage-frankfurter-horizontal-large-gallery.jpg"; path = "../140123145048-sil-sausage-frankfurter-horizontal-large-gallery.jpg"; sourceTree = "<group>"; };
+		8043E5471D678B4C004C2072 /* aceitunasSERPIS.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = aceitunasSERPIS.jpg; path = ../aceitunasSERPIS.jpg; sourceTree = "<group>"; };
+		8043E5491D678B4C004C2072 /* cebolla.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cebolla.jpg; path = ../cebolla.jpg; sourceTree = "<group>"; };
+		8043E54A1D678B4C004C2072 /* jamon-cocido-bocata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "jamon-cocido-bocata.jpg"; path = "../jamon-cocido-bocata.jpg"; sourceTree = "<group>"; };
+		8043E54B1D678B4C004C2072 /* pavo-asado-19804.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "pavo-asado-19804.jpg"; path = "../pavo-asado-19804.jpg"; sourceTree = "<group>"; };
+		8043E54C1D678B4C004C2072 /* pepperoni.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pepperoni.jpg; path = ../pepperoni.jpg; sourceTree = "<group>"; };
+		8043E54D1D678B4C004C2072 /* piña.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "piña.jpg"; path = "../piña.jpg"; sourceTree = "<group>"; };
+		809FFA6F1D678E9C000FC8AE /* anchoas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = anchoas.png; path = ../anchoas.png; sourceTree = "<group>"; };
+		A7EAA86A1D6909A7003D82F0 /* 799938223-queso-parmesano-food-rotar-ninguno.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "799938223-queso-parmesano-food-rotar-ninguno.jpg"; path = "../../tarea app pizza/799938223-queso-parmesano-food-rotar-ninguno.jpg"; sourceTree = "<group>"; };
+		A7EAA86B1D6909A7003D82F0 /* mozarela para pizza.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "mozarela para pizza.jpeg"; path = "../../tarea app pizza/mozarela para pizza.jpeg"; sourceTree = "<group>"; };
+		A7EAA86C1D6909A7003D82F0 /* pizza juntas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pizza juntas.png"; path = "../../tarea app pizza/pizza juntas.png"; sourceTree = "<group>"; };
+		A7EAA86D1D6909A7003D82F0 /* Quedo-Cheddar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Quedo-Cheddar.jpg"; path = "../../tarea app pizza/Quedo-Cheddar.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,9 +73,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		80191A9B1D67CB800003AA58 /* imagenes */ = {
+			isa = PBXGroup;
+			children = (
+				A7EAA86A1D6909A7003D82F0 /* 799938223-queso-parmesano-food-rotar-ninguno.jpg */,
+				A7EAA86B1D6909A7003D82F0 /* mozarela para pizza.jpeg */,
+				A7EAA86C1D6909A7003D82F0 /* pizza juntas.png */,
+				A7EAA86D1D6909A7003D82F0 /* Quedo-Cheddar.jpg */,
+				8043E5431D67866A004C2072 /* sin queso.png */,
+				8043E5451D678B4C004C2072 /* 4859-Pimienta-negra--molida500x500.jpg */,
+				8043E5461D678B4C004C2072 /* 140123145048-sil-sausage-frankfurter-horizontal-large-gallery.jpg */,
+				8043E5471D678B4C004C2072 /* aceitunasSERPIS.jpg */,
+				8043E5491D678B4C004C2072 /* cebolla.jpg */,
+				809FFA6F1D678E9C000FC8AE /* anchoas.png */,
+				8043E54A1D678B4C004C2072 /* jamon-cocido-bocata.jpg */,
+				8043E54B1D678B4C004C2072 /* pavo-asado-19804.jpg */,
+				8043E54C1D678B4C004C2072 /* pepperoni.jpg */,
+				8043E54D1D678B4C004C2072 /* piña.jpg */,
+			);
+			name = imagenes;
+			sourceTree = "<group>";
+		};
 		8043E4FB1D676117004C2072 = {
 			isa = PBXGroup;
 			children = (
+				80191AA41D67CBFF0003AA58 /* ConfirmacionPizzaViewController.swift */,
+				80191AA21D67CBE00003AA58 /* IngredientesViewController.swift */,
+				80191AA01D67CBCE0003AA58 /* QuesoViewController.swift */,
+				80191A9E1D67CBBA0003AA58 /* MasaViewController.swift */,
+				80191A9C1D67CBA80003AA58 /* TamanioViewController.swift */,
 				8043E5061D676117004C2072 /* Pedirpizza */,
 				8043E5051D676117004C2072 /* Products */,
 			);
@@ -54,6 +118,7 @@
 		8043E5061D676117004C2072 /* Pedirpizza */ = {
 			isa = PBXGroup;
 			children = (
+				80191A9B1D67CB800003AA58 /* imagenes */,
 				8043E5071D676117004C2072 /* AppDelegate.swift */,
 				8043E5091D676117004C2072 /* ViewController.swift */,
 				8043E50B1D676117004C2072 /* Main.storyboard */,
@@ -122,9 +187,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8043E5541D678B4C004C2072 /* pavo-asado-19804.jpg in Resources */,
 				8043E5121D676117004C2072 /* LaunchScreen.storyboard in Resources */,
 				8043E50F1D676117004C2072 /* Assets.xcassets in Resources */,
+				809FFA701D678E9C000FC8AE /* anchoas.png in Resources */,
+				8043E54E1D678B4C004C2072 /* 4859-Pimienta-negra--molida500x500.jpg in Resources */,
+				A7EAA86E1D6909A7003D82F0 /* 799938223-queso-parmesano-food-rotar-ninguno.jpg in Resources */,
+				A7EAA86F1D6909A7003D82F0 /* mozarela para pizza.jpeg in Resources */,
+				8043E5561D678B4C004C2072 /* piña.jpg in Resources */,
 				8043E50D1D676117004C2072 /* Main.storyboard in Resources */,
+				8043E5521D678B4C004C2072 /* cebolla.jpg in Resources */,
+				8043E54F1D678B4C004C2072 /* 140123145048-sil-sausage-frankfurter-horizontal-large-gallery.jpg in Resources */,
+				A7EAA8701D6909A7003D82F0 /* pizza juntas.png in Resources */,
+				8043E5531D678B4C004C2072 /* jamon-cocido-bocata.jpg in Resources */,
+				8043E5501D678B4C004C2072 /* aceitunasSERPIS.jpg in Resources */,
+				A7EAA8711D6909A7003D82F0 /* Quedo-Cheddar.jpg in Resources */,
+				8043E5441D67866A004C2072 /* sin queso.png in Resources */,
+				8043E5551D678B4C004C2072 /* pepperoni.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +214,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				80191AA31D67CBE00003AA58 /* IngredientesViewController.swift in Sources */,
+				80191A9F1D67CBBA0003AA58 /* MasaViewController.swift in Sources */,
+				80191AA51D67CBFF0003AA58 /* ConfirmacionPizzaViewController.swift in Sources */,
+				80191A9D1D67CBA80003AA58 /* TamanioViewController.swift in Sources */,
 				8043E50A1D676117004C2072 /* ViewController.swift in Sources */,
 				8043E5081D676117004C2072 /* AppDelegate.swift in Sources */,
+				80191AA11D67CBCE0003AA58 /* QuesoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +370,7 @@
 				8043E5181D676117004C2072 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
